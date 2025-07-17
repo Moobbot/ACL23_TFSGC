@@ -17,9 +17,9 @@ More detailed environment settings can be found on: <https://github.com/ruotianl
 
 ### Our Main Enviroment
 
-+ Python 3.7
-+ PyTorch 1.8.2
-+ TorchVision 0.8.0
++ Python 3.11
++ PyTorch 2.7.1
++ TorchVision 0.22.1
 + numpy
 + tqdm
 + gensim
@@ -32,8 +32,8 @@ More detailed environment settings can be found on: <https://github.com/ruotianl
 pip install -r requirements.txt 
 ```
 
-+ [cider](https://github.com/ruotianluo/cider)
-+ [coco-caption](https://github.com/tylin/coco-caption)(Remember to follow initialization steps in coco-caption/README.md)
++ [cider](https://github.com/Moobbot/cider)
++ [coco-caption](https://github.com/Moobbot/coco-caption)(Remember to follow initialization steps in coco-caption/README.md)
 
 ## Data preparing
 

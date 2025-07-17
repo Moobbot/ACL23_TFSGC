@@ -1,0 +1,6 @@
+[submodule "cider"]
+	path = cider
+	url = https://github.com/Moobbot/cider.git
+[submodule "coco-caption"]
+	path = coco-caption
+	url = https://github.com/Moobbot/coco-caption.git 
